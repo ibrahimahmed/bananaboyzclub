@@ -16,13 +16,11 @@ const memberInfo = [
         name: 'Devin',
         position: 'Developer',
     },
-
     {
         image: '/assets/images/team/team3.png',
         name: 'Caleb',
         position: 'Lead Artist',
     },
-
     {
         image: '/assets/images/team/team4.png',
         name: 'Johnny',
