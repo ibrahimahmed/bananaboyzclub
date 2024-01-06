@@ -30,7 +30,7 @@ const Home: NextPage = () => {
     return (
         <Fragment>
             <Head>
-                <title>Banana Boys Club</title>
+                <title>Bananas On Sei</title>
                 <meta name="author" content="MNM" />
                 <meta name="description" content="Bananas on SEI" />
                 <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
