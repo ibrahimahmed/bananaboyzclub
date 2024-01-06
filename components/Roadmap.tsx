@@ -21,13 +21,13 @@ const roadmapContent = [
     {
         title: 'Phase 3: the club',
         description:
-            'Annual in person Club meeting for the Banana Boyz in Hawaii! Access to the venue will be purchasable with our in-house token and 100 lucky members will win free airfare!',
+            'Annual in person Club meeting for the Bananas in Hawaii! Access to the venue will be purchasable with our in-house token and 100 lucky members will win free airfare!',
     },
 
     {
         title: 'Phase 4: the verse',
         description:
-            'Continuing the Banana Boy collection with a free mint for the second collection for those with enough in-house tokens! Banana Boyz 2.0 will be a 3D asset ready for metaverse integration!',
+            'Continuing the Bananas with a free mint for the second collection for those with enough in-house tokens! Bananas 2.0 will be a 3D asset ready for Metaverse integration!',
     },
 ];
 

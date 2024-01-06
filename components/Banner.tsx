@@ -33,8 +33,8 @@ const Banner = memo(() => {
                     </div>
 
                     <div className={cx('content')}>
-                        <h1>Banana Boys Club</h1>
-                        <Link href="/mint">Mint Now</Link>
+                        <h1>Bananas On SEI</h1>
+                        <Link href="/mint">Minting Soon</Link>
                     </div>
                 </div>
             ) : (
@@ -53,8 +53,8 @@ const Banner = memo(() => {
                     </div>
 
                     <div className={cx('content')}>
-                        <h1>Banana Boys Club</h1>
-                        <Link href="/mint">Mint Now</Link>
+                        <h1>Bananas On SEI</h1>
+                        <Link href="/">Minting Soon</Link>
                     </div>
                 </div>
             )}

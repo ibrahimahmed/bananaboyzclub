@@ -63,16 +63,13 @@ const Header = memo(({ Arts, Roadmap, Team, Faq }: { Arts: any; Roadmap: any; Te
                 <div>
                     <ul className={cx('icons')}>
                         <li>
-                            <a
-                                href="https://medium.com/@BBCNFT_/banana-boyz-club-75174aae041b"
-                                target="_blank"
-                                rel="noreferrer">
-                                <img src="/assets/svg/medium.svg" alt="Medium Articles" />
+                            <a href="https://twitter.com/BananaOnSei" target="_blank" rel="noreferrer">
+                                <img src="/assets/svg/twitter.svg" alt="Twitter Link" />
                             </a>
                         </li>
                         <li>
-                            <a href="https://twitter.com/BananaBoyzClub" target="_blank" rel="noreferrer">
-                                <img src="/assets/svg/twitter.svg" alt="Twitter Link" />
+                            <a href="https://discord.gg/eagQWb2J" target="_blank" rel="noreferrer">
+                                <img src="/assets/svg/discord.svg" alt="Twitter Link" />
                             </a>
                         </li>
                     </ul>

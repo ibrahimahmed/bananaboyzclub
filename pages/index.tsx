@@ -31,8 +31,8 @@ const Home: NextPage = () => {
         <Fragment>
             <Head>
                 <title>Banana Boys Club</title>
-                <meta name="author" content="MD Ittisafur Rahman" />
-                <meta name="description" content="Banana Boys Club Arts" />
+                <meta name="author" content="MNM" />
+                <meta name="description" content="Bananas on SEI" />
                 <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
@@ -45,9 +45,9 @@ const Home: NextPage = () => {
                 Location={faq}
                 items={[
                     {
-                        title: 'What is Banana Boyz Club ?',
+                        title: 'What are Bananas on SEI?',
                         content:
-                            'Banana Boyz Club is a collection of 7777 unique NFTs. Each NFT is unique and resides on the Ethereum blockchain.',
+                            'Bananas On SEI is a collection of 5555 unique NFTs. Each NFT is unique and resides on SEI.',
                     },
                     {
                         title: 'How to get WL/OG? What are the conditions for this ?',
@@ -63,26 +63,28 @@ const Home: NextPage = () => {
                     },
                     {
                         title: 'How many mints per wallet ?',
-                        content: `<p>TBA</p>`,
+                        content: `<p>1</p>`,
                     },
                     {
                         title: "What's mint price ?",
-                        content: `<p>TBA</p> `,
+                        content: `<p>Free For WL , 11 SEI For Public</p> `,
                     },
                     {
                         title: 'When/Where mint?',
-                        content: `<p>On the Ethereum Blockchain more info TBA.</p> `,
+                        content: `<p>On the SEI Network.</p> `,
                     },
-
                     {
                         title: 'What will the supply be ?',
-                        content: `<p>Supply is 7777</p> `,
+                        content: `<p>Supply is 5555</p> `,
                     },
-
                     {
-                        title: 'Will there be public sale, or just pre sale?',
-                        content: `<p>TBA</p> `,
+                        title: 'Will there be public sale, or just whitelist?',
+                        content: `<p>4444 Whitelist , 1111 Public</p> `,
                     },
+                    {
+                        title: 'Wen Mint?',
+                        content: `<p>TBA</p> `,
+                    }
                 ]}
             />
         </Fragment>

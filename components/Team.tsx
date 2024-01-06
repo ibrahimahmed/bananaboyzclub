@@ -11,10 +11,9 @@ const memberInfo = [
         name: 'Jeremiah',
         position: 'Marketing Lead',
     },
-
     {
         image: '/assets/images/team/team2.png',
-        name: 'Michael',
+        name: 'Devin',
         position: 'Developer',
     },
 
@@ -26,7 +25,7 @@ const memberInfo = [
 
     {
         image: '/assets/images/team/team4.png',
-        name: 'Steven',
+        name: 'Johnny',
         position: 'Founder',
     },
 ];

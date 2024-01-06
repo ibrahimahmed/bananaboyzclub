@@ -48,7 +48,7 @@ const Faq = memo(({ items, Location }: Props) => {
                 </div>
 
                 <footer className={cx('footer')}>
-                    <p> &copy; Copyright 2022 Banana NFT. All Rights reserved.</p>
+                    <p> &copy; Copyright 2024 Bananas On SEI. All Rights reserved.</p>
                     <a href="#">Terms and Conditions</a>
                 </footer>
             </div>
